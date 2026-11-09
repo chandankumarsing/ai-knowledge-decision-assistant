@@ -14,7 +14,7 @@ A powerful Python-based MVP designed to process unstructured knowledge bases and
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/chandankumarsing/ai-knowledge-decision-assistant.git
    ```
 2. Install dependencies:
    ```bash
